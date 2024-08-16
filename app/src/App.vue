@@ -1,7 +1,8 @@
 <template>
   <v-app>
+    <ToolBar />
     <v-main>
-      <HelloWorld />
+      <StreamWindow />
     </v-main>
 
     <AppFooter />
